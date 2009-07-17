@@ -1,4 +1,4 @@
-require 'application'
+# require_dependency 'application'
 
 class RouteHandlerExtension < Radiant::Extension
   version "0.1"
